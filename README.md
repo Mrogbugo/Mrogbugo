@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrogbugo
-- 👀 I’m interested in C#
+- 👀 I’m interested in .NET
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C#
+- 💞️ I’m looking to collaborate on .NET
 - 📫 How to reach me stanleyobaino@gmail.com
 
 <!---
